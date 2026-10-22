@@ -97,8 +97,3 @@ The included Jupyter Notebook (`.ipynb`) covers the full end-to-end execution pi
 * **Hugging Face Model:** [Learner-sai/muril-ner-multilingual-v3](https://www.google.com/url?sa=E&source=gmail&q=https://huggingface.co/Learner-sai/muril-ner-multilingual-v3)
 * **Author:** Sai Masram
 
-```
-
-<FollowUp label="Would you like a README file in a single markdown block for your Credit Card Fraud Detection project as well?" query="Can you give me a README file in one markdown block for my Credit Card Fraud Detection MLflow project?"/>
-
-```
